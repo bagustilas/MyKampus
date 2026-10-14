@@ -87,7 +87,7 @@ Pemanggilan ini sama untuk `Mahasiswa` dan `Dosen`. Objek yang sebenarnya menent
 
 ## Class Diagram
 
-Lihat file `class_diagram.png` di repository.
+![Class Diagram MyKampus Lite](class_diagram.png)
 
 ## Bonus
 
